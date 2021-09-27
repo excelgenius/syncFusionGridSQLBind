@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DhivyaRajendran\\Downloads\\datagridSQLconnection\\EFGrid\\EFGrid\\EFGrid.csproj": {}
+    "C:\\Users\\marc\\source\\repos\\blazor-grid-sqldatabinding\\EFGrid\\EFGrid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DhivyaRajendran\\Downloads\\datagridSQLconnection\\EFGrid\\EFGrid\\EFGrid.csproj": {
+    "C:\\Users\\marc\\source\\repos\\blazor-grid-sqldatabinding\\EFGrid\\EFGrid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DhivyaRajendran\\Downloads\\datagridSQLconnection\\EFGrid\\EFGrid\\EFGrid.csproj",
+        "projectUniqueName": "C:\\Users\\marc\\source\\repos\\blazor-grid-sqldatabinding\\EFGrid\\EFGrid.csproj",
         "projectName": "EFGrid",
-        "projectPath": "C:\\Users\\DhivyaRajendran\\Downloads\\datagridSQLconnection\\EFGrid\\EFGrid\\EFGrid.csproj",
-        "packagesPath": "C:\\Users\\DhivyaRajendran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DhivyaRajendran\\Downloads\\datagridSQLconnection\\EFGrid\\EFGrid\\obj\\",
+        "projectPath": "C:\\Users\\marc\\source\\repos\\blazor-grid-sqldatabinding\\EFGrid\\EFGrid.csproj",
+        "packagesPath": "C:\\Users\\marc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marc\\source\\repos\\blazor-grid-sqldatabinding\\EFGrid\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DhivyaRajendran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -51,9 +50,9 @@
               "target": "Package",
               "version": "[3.1.0, )"
             },
-            "Syncfusion.Blazor": {
+            "Syncfusion.Blazor.Grid": {
               "target": "Package",
-              "version": "[18.1.0.43, )"
+              "version": "[19.1.0.66, )"
             }
           },
           "imports": [
@@ -74,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
