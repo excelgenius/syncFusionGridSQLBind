@@ -1,14 +1,14 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Calendars" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.calendars\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Core" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.core\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Data" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.data\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.DropDowns" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.dropdowns\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Grid" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.grid\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Inputs" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.inputs\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Lists" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.lists\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Navigations" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.navigations\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Popups" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.popups\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Spinner" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.spinner\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.SplitButtons" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.splitbuttons\19.1.0.66\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Syncfusion.Blazor.Themes" Path="C:\Users\Marc\.nuget\packages\syncfusion.blazor.themes\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Calendars" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.calendars\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Core" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.core\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Data" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.data\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.DropDowns" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.dropdowns\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Grid" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.grid\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Inputs" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.inputs\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Lists" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.lists\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Navigations" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.navigations\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Popups" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.popups\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Spinner" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.spinner\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.SplitButtons" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.splitbuttons\19.1.0.66\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor.Themes" Path="C:\Users\marc\.nuget\packages\syncfusion.blazor.themes\19.1.0.66\build\..\staticwebassets\" />
 </StaticWebAssets>
