@@ -30,7 +30,7 @@ namespace EFGrid
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
-            //services.AddSingleton<OrderDataAccessLayer>();
+            services.AddSingleton<OrderDataAccessLayer>();
             services.AddSyncfusionBlazor();
         }
 

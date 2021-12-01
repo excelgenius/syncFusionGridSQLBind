@@ -15,7 +15,7 @@ namespace EFGrid.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='C:\Users\DhivyaRajendran\Downloads\EFGrid\EFGrid\App_Data\NORTHWND.MDF';Integrated Security=True;Connect Timeout=30");
+                optionsBuilder.UseSqlServer(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='App_Data\NORTHWND.MDF';Integrated Security=True;Connect Timeout=30");
             }
         }
     }

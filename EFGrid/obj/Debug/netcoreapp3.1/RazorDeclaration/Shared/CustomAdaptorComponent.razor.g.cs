@@ -181,7 +181,7 @@ using Microsoft.AspNetCore.Hosting;
         string AppData = _env.ContentRootPath;
         string DatabasePath = Path.Combine(AppData, "App_Data\\NORTHWND.MDF");
         string ConnectionStr = $"Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename='{DatabasePath}';Integrated Security=True;Connect Timeout=30";
-        string QueryStr = "SELECT OrderID, CustomerID FROM dbo.Orders ORDER BY OrderID OFFSET " + DataManagerReq.Skip + " ROWS FETCH NEXT " + DataManagerReq.Take + " ROWS ONLY;";
+        string QueryStr = "SELECT OrderID, CustomerID FROM dbo.Orders ORDER BY OrderID desc OFFSET " + DataManagerReq.Skip + " ROWS FETCH NEXT " + DataManagerReq.Take + " ROWS ONLY;";
         DataSet Data = CreateCommand(QueryStr, ConnectionStr);
         Orders = Data.Tables[0].AsEnumerable().Select(r => new Order
         {

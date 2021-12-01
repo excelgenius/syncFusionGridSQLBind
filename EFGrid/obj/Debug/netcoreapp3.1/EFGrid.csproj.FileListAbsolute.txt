@@ -258,3 +258,206 @@ C:\Users\DhivyaRajendran\Downloads\datagridSQLconnection\EFGrid\EFGrid\obj\Debug
 C:\Users\DhivyaRajendran\Downloads\datagridSQLconnection\EFGrid\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.AssemblyInfo.cs
 C:\Users\DhivyaRajendran\Downloads\datagridSQLconnection\EFGrid\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.dll
 C:\Users\DhivyaRajendran\Downloads\datagridSQLconnection\EFGrid\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.pdb
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.StaticWebAssets.xml
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.exe
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.deps.json
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.runtimeconfig.json
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.runtimeconfig.dev.json
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.pdb
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.Views.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.Views.pdb
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Buttons.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Calendars.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Core.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Data.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.DropDowns.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Grids.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Inputs.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Lists.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Navigations.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Popups.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Spinner.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Themes.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.csproj.AssemblyReference.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.AssemblyInfoInputs.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.AssemblyInfo.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.csproj.CoreCompileInputs.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorComponent.input.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorComponent.output.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\EFGrid.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.TagHelpers.input.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.TagHelpers.output.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorCoreGenerate.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorAssemblyInfo.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorAssemblyInfo.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\staticwebassets\EFGrid.StaticWebAssets.Manifest.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\staticwebassets\EFGrid.StaticWebAssets.xml
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\scopedcss\bundle\EFGrid.styles.css
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorTargetAssemblyInfo.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorTargetAssemblyInfo.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.Views.pdb
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.csproj.CopyComplete
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.dll
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.pdb
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.genruntimeconfig.cache
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\XCustomAdaptorComponent.razor.g.cs
+C:\Users\marc\source\repos\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Shared\XCustomAdaptorComponent.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.StaticWebAssets.xml
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.exe
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.deps.json
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.runtimeconfig.json
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.runtimeconfig.dev.json
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.pdb
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.Views.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\EFGrid.Views.pdb
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Buttons.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Calendars.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Core.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Data.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.DropDowns.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Grids.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Inputs.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Lists.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Navigations.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Popups.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Spinner.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.SplitButtons.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.Themes.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.csproj.AssemblyReference.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.AssemblyInfoInputs.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.AssemblyInfo.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.csproj.CoreCompileInputs.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.MvcApplicationPartsAssemblyInfo.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorComponent.input.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\XCustomAdaptorComponent.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorComponent.output.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\RazorDeclaration\EFGrid.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.TagHelpers.input.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.TagHelpers.output.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorCoreGenerate.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Shared\XCustomAdaptorComponent.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorAssemblyInfo.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorAssemblyInfo.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\staticwebassets\EFGrid.StaticWebAssets.Manifest.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\staticwebassets\EFGrid.StaticWebAssets.xml
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorTargetAssemblyInfo.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.RazorTargetAssemblyInfo.cs
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.Views.pdb
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.csproj.CopyComplete
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.pdb
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid\obj\Debug\netcoreapp3.1\EFGrid.genruntimeconfig.cache
