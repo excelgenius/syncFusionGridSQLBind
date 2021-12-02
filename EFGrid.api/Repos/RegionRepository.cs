@@ -20,7 +20,8 @@ namespace EFGrid.api.Repos
 
         public IEnumerable<Region> GetAll()
         {
-            return _AppDbContext.Regions.OrderBy(s => s.RegionDescription);
+            return _AppDbContext.Regions
+                    .OrderBy(s => s.RegionDescription);
         }
 
 

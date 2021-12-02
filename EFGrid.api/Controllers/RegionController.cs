@@ -42,7 +42,7 @@ namespace EF1.api.Controllers
             }
             else
             {
-                return data;
+                return data.Select(x => new { x.RegionId, x.RegionDescription });
             }
         }
 

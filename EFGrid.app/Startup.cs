@@ -31,6 +31,24 @@ namespace EFGrid
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
             services.AddSyncfusionBlazor();
+
+
+            // - get port# from efgrid.api.properties.launchsettings.json in the API proj
+            var TmpEnv = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+            string sURI = "";
+            if (TmpEnv == "Production")
+            {
+                //PROD
+                sURI = "https://datacatadminblzapi20210907103238.azurewebsites.net/";
+            }
+            else
+            {
+                //DEV
+                sURI = "https://localhost:44370/";
+            }
+
+            services.AddHttpClient<IRegionDataService, RegionDataService>(client => client.BaseAddress = new Uri(sURI));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,0 +1,59 @@
+﻿@page "/regs2"
+
+@using Syncfusion.Blazor.Grids
+@using Syncfusion.Blazor.Buttons
+@using System.Dynamic
+@using Syncfusion.Blazor.DropDowns
+@using EFGrid.classes.DbModel
+
+<style>
+    .e-plus-icon::before {
+        content: '\e823';
+    }
+    .e-custom {
+        border-radius: 0;
+        height: 30px;
+        width: 80px;
+    }
+    .e-custom, .e-custom:hover, .e-custom:focus, .e-custom:active {
+        background-color: #ff6e40;
+        color: #fff;
+    }
+</style>
+
+
+<SfGrid DataSource=@Regz TValue="Region" class="mr-2" Width="1200"
+        AllowPaging="true"
+        AllowFiltering="false"
+        AllowSorting="true"
+        AllowTextWrap="true"
+        AllowResizing="true"
+        AllowGrouping="false"
+        RowHeight="30"
+        Toolbar="@(new List<string>() {"Edit", "Delete", "Cancel", "Update" })">
+
+    <GridEditSettings AllowAdding="true"
+                      AllowDeleting="true"
+                      AllowEditing="true"
+                      AllowEditOnDblClick="true"
+                      Mode="EditMode.Normal"
+                      AllowNextRowEdit="false"
+                      ShowConfirmDialog="true"
+                      ShowDeleteConfirmDialog="true"/>
+
+    <GridPageSettings PageSize="40"></GridPageSettings>
+
+    @*<GridEvents OnRecordDoubleClick="RecordDoubleClickHandler" TValue="FileTemplateHeader"></GridEvents>*@
+    <GridEvents OnActionBegin="ActionBeginHandler" OnActionComplete="ActionCompleteHandler" TValue="Region"></GridEvents>
+
+    <GridColumns>
+
+        <GridColumn Field=@nameof(Region.RegionId) HeaderText="ID" IsPrimaryKey="true" LockColumn="true" AllowAdding="false" TextAlign="TextAlign.Left" MinWidth="10" Width="10" />
+
+        <GridColumn Field=@nameof(Region.RegionDescription) HeaderText="Desc" IsPrimaryKey="false" TextAlign="TextAlign.Left" Width="25"></GridColumn>
+
+    </GridColumns>
+
+
+</SfGrid>
+
