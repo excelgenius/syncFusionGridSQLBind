@@ -1,0 +1,7 @@
+C:\Users\marc\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid.api\obj\Debug\net6.0\EFGrid.api.csproj.AssemblyReference.cache
+C:\Users\marc\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid.api\obj\Debug\net6.0\EFGrid.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid.api\obj\Debug\net6.0\EFGrid.api.AssemblyInfoInputs.cache
+C:\Users\marc\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid.api\obj\Debug\net6.0\EFGrid.api.AssemblyInfo.cs
+C:\Users\marc\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid.api\obj\Debug\net6.0\EFGrid.api.csproj.CoreCompileInputs.cache
+C:\Users\marc\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid.api\obj\Debug\net6.0\EFGrid.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marc\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\blazor-grid-sqldatabinding\EFGrid.api\obj\Debug\net6.0\EFGrid.api.MvcApplicationPartsAssemblyInfo.cache

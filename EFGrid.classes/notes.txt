@@ -1,0 +1,5 @@
+﻿Scaffold-DbContext "Server=.\;Database=AuditWorkbench;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DbModel -Context "_AWBContext" -DataAnnotations -verbose -force
+
+
+
+

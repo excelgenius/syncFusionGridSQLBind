@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2/3hEeL0I0+xGwkblGZcF/JM2ysCRimWBXQ2GYeTIvc=",
+  "Source": "auditWB.api",
+  "BasePath": "_content/auditWB.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
