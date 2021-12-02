@@ -22,7 +22,7 @@
 </style>
 
 
-<SfGrid DataSource=@Regz TValue="Region" class="mr-2" Width="1200"
+<SfGrid DataSource=@Regz TValue="Region" class="mr-2" 
         AllowPaging="true"
         AllowFiltering="false"
         AllowSorting="true"
@@ -30,7 +30,7 @@
         AllowResizing="true"
         AllowGrouping="false"
         RowHeight="30"
-        Toolbar="@(new List<string>() {"Edit", "Delete", "Cancel", "Update" })">
+        Toolbar="@(new List<string>() {"Add","Edit", "Delete", "Cancel", "Update" })">
 
     <GridEditSettings AllowAdding="true"
                       AllowDeleting="true"

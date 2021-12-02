@@ -36,9 +36,9 @@ namespace EFGrid.api
             //services.AddDbContext<AppDbContext>(options => options.UseSqlServer());
             services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("connApi1"))
-                .EnableSensitiveDataLogging()
-                .LogTo(Console.WriteLine, new[] { DbLoggerCategory.Database.Command.Name }, LogLevel.Information)
-                .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking));
+                    .EnableSensitiveDataLogging()
+                    .LogTo(Console.WriteLine, new[] { DbLoggerCategory.Database.Command.Name }, LogLevel.Information)
+                    .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking));
 
             Debug.Print("connStr " + Configuration.GetConnectionString("connApi1"));
 
