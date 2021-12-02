@@ -1,0 +1,39 @@
+﻿@page "/regs1"
+
+@using Syncfusion.Blazor
+@using Syncfusion.Blazor.Buttons
+@using Syncfusion.Blazor.Data
+@using Syncfusion.Blazor.Grids
+
+@using EFGrid.classes.DbModel
+
+@*This page binds directly via the WEBAPI.  All CRUD is handled by the component.*@
+
+<SfGrid @ref="Grid" TValue="Region" AllowFiltering="false" AllowSorting="true" AllowPaging="true"
+        Toolbar="@(new List<string>() { "Add", "Edit", "Delete", "Cancel", "Update" })">
+
+    <GridEvents OnActionFailure="ActionFailureHandler" TValue="Region"></GridEvents>
+
+    <GridEditSettings AllowAdding="true" AllowEditing="true" AllowDeleting="true" Mode="EditMode.Normal" ShowDeleteConfirmDialog="true"></GridEditSettings>
+
+    <SfDataManager Url="https://localhost:44370/api/region" Adaptor="Adaptors.WebApiAdaptor"></SfDataManager>
+
+    <GridColumns>
+        <GridColumn Field=@nameof(Region.RegionId) HeaderText="ID" IsPrimaryKey="true" IsIdentity="true" AllowEditing="false" AllowAdding="false" TextAlign="TextAlign.Left" Width="10"></GridColumn>
+        <GridColumn Field=@nameof(Region.RegionDescription) HeaderText="Desc" Width="150"></GridColumn>
+    </GridColumns>
+
+</SfGrid>
+
+@code{
+    SfGrid<Region> Grid { get; set; }
+
+    public void ActionFailureHandler(Syncfusion.Blazor.Grids.FailureEventArgs args)
+    {
+        Console.WriteLine(args.Error.Message);
+        int sx = 1;
+        // Here you can get the error details in the args
+    }
+
+
+}

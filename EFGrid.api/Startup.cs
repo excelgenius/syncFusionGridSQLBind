@@ -33,8 +33,8 @@ namespace EFGrid.api
         {
 
             //this set support for EF
-            //services.AddDbContext<_AWBContext>(options => options.UseSqlServer());
-            services.AddDbContext<_AWBContext>(options =>
+            //services.AddDbContext<AppDbContext>(options => options.UseSqlServer());
+            services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("connApi1"))
                 .EnableSensitiveDataLogging()
                 .LogTo(Console.WriteLine, new[] { DbLoggerCategory.Database.Command.Name }, LogLevel.Information)
@@ -45,9 +45,7 @@ namespace EFGrid.api
             //===========================================================================
             //Implement Repository Service
             //===========================================================================
-            services.AddScoped<IUserRepository, UserRepository>();
-            services.AddScoped<IOrganizationRepository, OrganizationRepository>();
-            services.AddScoped<IPrincipalRepository, PrincipalRepository>();
+            services.AddScoped<IRegionRepository, RegionRepository>();
 
 
             services.AddControllers();

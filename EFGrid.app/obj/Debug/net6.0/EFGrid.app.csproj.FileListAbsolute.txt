@@ -87,3 +87,5 @@ C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\SF P
 C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\SF POC\EFGrid.app\obj\Debug\net6.0\ref\EFGrid.app.dll
 C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\SF POC\EFGrid.app\obj\Debug\net6.0\EFGrid.app.pdb
 C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\SF POC\EFGrid.app\obj\Debug\net6.0\EFGrid.app.genruntimeconfig.cache
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\SF POC\EFGrid.app\bin\Debug\net6.0\MudBlazor.dll
+C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\SF POC\EFGrid.app\bin\Debug\net6.0\MudBlazor.ThemeManager.dll

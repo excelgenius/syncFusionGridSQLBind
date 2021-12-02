@@ -59,6 +59,14 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "MudBlazor": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "MudBlazor.ThemeManager": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
             "Syncfusion.Blazor.Grid": {
               "target": "Package",
               "version": "[19.3.0.56, )"
