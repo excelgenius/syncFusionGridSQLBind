@@ -1,5 +1,15 @@
-﻿Scaffold-DbContext "Server=.\;Database=AuditWorkbench;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DbModel -Context "_AWBContext" -DataAnnotations -verbose -force
+﻿Scaffold-DbContext "Server=.\;Database=Northwind;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DbModel -Context "aAppContext" -DataAnnotations -verbose -force
 
+
+
+Scaffold-DbContext "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename='C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\SF POC\EFGrid.app\App_Data\NORTHWND.MDF';Integrated Security=True;Connect Timeout=30"  Microsoft.EntityFrameworkCore.SqlServer -OutputDir DbModel -Context "_AWBContext" -DataAnnotations -verbose -force
+
+"C:\Files\OneDrive - Rivait Software Systems Inc\Programming\blazorTestProjs\SF POC\EFGrid.app\App_Data\NORTHWND.MDF"
+
+
+
+string AppData = _env.ContentRootPath;
+string DatabasePath = Path.Combine(AppData, "App_Data\\NORTHWND.MDF");
 
 
 

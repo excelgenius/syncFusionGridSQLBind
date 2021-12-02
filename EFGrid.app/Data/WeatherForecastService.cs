@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EFGrid.Data
+namespace EFGrid.app.Data
 {
     public class WeatherForecastService
     {

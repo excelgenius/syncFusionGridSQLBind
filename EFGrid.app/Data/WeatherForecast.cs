@@ -1,6 +1,6 @@
 using System;
 
-namespace EFGrid.Data
+namespace EFGrid.app.Data
 {
     public class WeatherForecast
     {

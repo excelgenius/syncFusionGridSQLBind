@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using EFGrid.Data;
+using EFGrid.app.Data;
 using Syncfusion.Blazor;
 
 namespace EFGrid
@@ -30,7 +30,6 @@ namespace EFGrid
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
-            services.AddSingleton<OrderDataAccessLayer>();
             services.AddSyncfusionBlazor();
         }
 

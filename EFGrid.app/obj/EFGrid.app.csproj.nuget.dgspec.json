@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.app\\EFGrid.app.csproj": {}
+    "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.app\\EFGrid.app.csproj": {
+    "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.app\\EFGrid.app.csproj",
+        "projectUniqueName": "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj",
         "projectName": "EFGrid.app",
-        "projectPath": "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.app\\EFGrid.app.csproj",
-        "packagesPath": "C:\\Users\\marc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.app\\obj\\",
+        "projectPath": "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj",
+        "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
+        "outputPath": "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.app\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\VS15Preview\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.classes\\EFGrid.classes.csproj": {
-                "projectPath": "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.classes\\EFGrid.classes.csproj"
+              "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.classes\\EFGrid.classes.csproj": {
+                "projectPath": "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.classes\\EFGrid.classes.csproj"
               }
             }
           }
@@ -81,17 +86,22 @@
         }
       }
     },
-    "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.classes\\EFGrid.classes.csproj": {
+    "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.classes\\EFGrid.classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.classes\\EFGrid.classes.csproj",
+        "projectUniqueName": "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.classes\\EFGrid.classes.csproj",
         "projectName": "EFGrid.classes",
-        "projectPath": "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.classes\\EFGrid.classes.csproj",
-        "packagesPath": "C:\\Users\\marc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marc\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\blazor-grid-sqldatabinding\\EFGrid.classes\\obj\\",
+        "projectPath": "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.classes\\EFGrid.classes.csproj",
+        "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
+        "outputPath": "C:\\Files\\OneDrive - Rivait Software Systems Inc\\Programming\\blazorTestProjs\\SF POC\\EFGrid.classes\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\VS15Preview\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
