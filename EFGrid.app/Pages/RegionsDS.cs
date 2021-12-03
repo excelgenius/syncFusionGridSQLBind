@@ -23,7 +23,6 @@ namespace EFGrid.app.Pages
 
         protected override async Task OnInitializedAsync()
         {
-
             Regz = await InjctdSvc.Regions();
         }
 
@@ -34,7 +33,7 @@ namespace EFGrid.app.Pages
             {
                 if (Args.Action == "Add")
                 {
-                    InjctdSvc.AddNew(Args.Data);
+                     InjctdSvc.AddNew(Args.Data);
                 }
                 else
                 {
@@ -51,12 +50,10 @@ namespace EFGrid.app.Pages
         {
             if (Args.RequestType.Equals(Syncfusion.Blazor.Grids.Action.Save))
             {
-
                 Console.WriteLine("usergrid.cs:ActionCompleteHandler");
                 //NavManager.NavigateTo("/admin/usergrid", true);
                 //this.StateHasChanged();
                 //InvokeAsync(StateHasChanged);
-
             }
         }
 

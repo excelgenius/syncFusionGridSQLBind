@@ -20,7 +20,6 @@ namespace EFGrid.app.Data
 
         public async Task<IEnumerable<Region>> Regions()
         {
-
             //string s1 = _httpClient.GetStringAsync($"{sReqUri}").Result.ToString();
 
             //System.IO.Stream xx;
@@ -39,6 +38,7 @@ namespace EFGrid.app.Data
         }
 
 
+
         public async Task<Region> AddNew(Region cCLS)
         {
             var vJson =
@@ -50,8 +50,7 @@ namespace EFGrid.app.Data
             {
                 return await JsonSerializer.DeserializeAsync<Region>(await response.Content.ReadAsStreamAsync());
             }
-
-            return null;
+            else { return null; }
         }
 
 
