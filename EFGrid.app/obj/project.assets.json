@@ -2026,7 +2026,7 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "sha512": "sn4JwjEN5iNfqc0bd0Qje5oBZBB9wyuNn4GkQvEzfKVnZ3QH0HHoN9exxydlJGptiCMVdAZu7At9TNj0r8Z0yg==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
@@ -3120,7 +3120,9 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marc\\.nuget\\packages\\": {}
+    "C:\\Users\\Marc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\VS15Preview\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3128,11 +3130,16 @@
       "projectUniqueName": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj",
       "projectName": "EFGrid.app",
       "projectPath": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj",
-      "packagesPath": "C:\\Users\\marc\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
       "outputPath": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.app\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\VS15Preview\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

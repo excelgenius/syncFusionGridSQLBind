@@ -43,6 +43,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaW9uc0RTLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Files/blazorProjs/SF POC/EFGrid.app/Pages/RegionsDScustomBind.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaW9uc0RTY3VzdG9tQmluZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Files/blazorProjs/SF POC/EFGrid.app/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
