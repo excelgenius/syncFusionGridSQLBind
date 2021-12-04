@@ -10,16 +10,11 @@
         "projectUniqueName": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj",
         "projectName": "EFGrid.app",
         "projectPath": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj",
-        "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\marc\\.nuget\\packages\\",
         "outputPath": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.app\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\VS15Preview\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,6 +65,10 @@
             "Syncfusion.Blazor.Grid": {
               "target": "Package",
               "version": "[19.3.0.56, )"
+            },
+            "Syncfusion.Blazor.Spinner": {
+              "target": "Package",
+              "version": "[19.3.0.56, )"
             }
           },
           "imports": [
@@ -100,16 +99,11 @@
         "projectUniqueName": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.classes\\EFGrid.classes.csproj",
         "projectName": "EFGrid.classes",
         "projectPath": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.classes\\EFGrid.classes.csproj",
-        "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\marc\\.nuget\\packages\\",
         "outputPath": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.classes\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\VS15Preview\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

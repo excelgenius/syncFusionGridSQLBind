@@ -59,6 +59,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Files/blazorProjs/SF POC/EFGrid.app/Shared/Common/SpinnerComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbW1vblxTcGlubmVyQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-2tog3hztci
+
 [C:/Files/blazorProjs/SF POC/EFGrid.app/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

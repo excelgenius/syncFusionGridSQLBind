@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Components;
 
-namespace BlazorDemos.Shared
+namespace EFGrid.app.Shared
 {
     /// <summary>
     /// A base component to perform common functionalities.

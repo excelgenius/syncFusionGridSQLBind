@@ -1,7 +1,9 @@
 ﻿using System.Linq;
 using Microsoft.AspNetCore.Components;
+using Syncfusion.Blazor.Spinner;
 
-namespace BlazorDemos.Shared
+
+namespace EFGrid.app.Shared
 {
     /// <summary>
     /// The injectable service class used to handle common functionalities all over the application.
@@ -23,13 +25,6 @@ namespace BlazorDemos.Shared
         /// <summary>
         /// Specifies the current sample details.
         /// </summary>
-        public Sample SampleInfo { get; set; }
-        /// <summary>
-        /// Specifies the meta data component reference.
-        /// </summary>
-        public SampleMetaData MetaData { get; set; }
-        /// <summary>
-        /// Specifies the very first sample url.
         /// </summary>
         public string FirstSampleUrl { get; set; }
         /// <summary>

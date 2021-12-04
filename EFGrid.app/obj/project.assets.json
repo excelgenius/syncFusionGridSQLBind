@@ -2026,7 +2026,7 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "sn4JwjEN5iNfqc0bd0Qje5oBZBB9wyuNn4GkQvEzfKVnZ3QH0HHoN9exxydlJGptiCMVdAZu7At9TNj0r8Z0yg==",
+      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
@@ -3116,13 +3116,12 @@
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.0",
       "MudBlazor >= 6.0.2",
       "MudBlazor.ThemeManager >= 1.0.5",
-      "Syncfusion.Blazor.Grid >= 19.3.0.56"
+      "Syncfusion.Blazor.Grid >= 19.3.0.56",
+      "Syncfusion.Blazor.Spinner >= 19.3.0.56"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\VS15Preview\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\marc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3130,16 +3129,11 @@
       "projectUniqueName": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj",
       "projectName": "EFGrid.app",
       "projectPath": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.app\\EFGrid.app.csproj",
-      "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\marc\\.nuget\\packages\\",
       "outputPath": "C:\\Files\\blazorProjs\\SF POC\\EFGrid.app\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\VS15Preview\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\marc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3188,6 +3182,10 @@
             "version": "[1.0.5, )"
           },
           "Syncfusion.Blazor.Grid": {
+            "target": "Package",
+            "version": "[19.3.0.56, )"
+          },
+          "Syncfusion.Blazor.Spinner": {
             "target": "Package",
             "version": "[19.3.0.56, )"
           }
